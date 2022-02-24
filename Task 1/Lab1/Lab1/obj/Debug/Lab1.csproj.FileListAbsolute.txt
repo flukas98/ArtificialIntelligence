@@ -1,0 +1,15 @@
+C:\Users\Filip\Documents\002 FER\6. semestar\UI\Labosi 2020\1. labos\Rjesenje\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Filip\Documents\002 FER\6. semestar\UI\Labosi 2020\1. labos\Rjesenje\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Filip\Documents\002 FER\6. semestar\UI\Labosi 2020\1. labos\Rjesenje\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Filip\Documents\002 FER\6. semestar\UI\Labosi 2020\1. labos\Rjesenje\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\Filip\Documents\002 FER\6. semestar\UI\Labosi 2020\1. labos\Rjesenje\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Documents\002 FER\6. semestar\UI\Labosi 2020\1. labos\Rjesenje\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Filip\Documents\002 FER\6. semestar\UI\Labosi 2020\1. labos\Rjesenje\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Filip\Documents\002 FER\6. semestar\UI\ArtificialIntelligence\Task 1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Filip\Documents\002 FER\6. semestar\UI\ArtificialIntelligence\Task 1\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Filip\Documents\002 FER\6. semestar\UI\ArtificialIntelligence\Task 1\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Filip\Documents\002 FER\6. semestar\UI\ArtificialIntelligence\Task 1\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\Filip\Documents\002 FER\6. semestar\UI\ArtificialIntelligence\Task 1\Lab1\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Filip\Documents\002 FER\6. semestar\UI\ArtificialIntelligence\Task 1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Documents\002 FER\6. semestar\UI\ArtificialIntelligence\Task 1\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Filip\Documents\002 FER\6. semestar\UI\ArtificialIntelligence\Task 1\Lab1\Lab1\obj\Debug\Lab1.pdb
